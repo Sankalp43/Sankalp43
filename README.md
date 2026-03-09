@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sankalp</h1>
-<h3 align="center">Research Scholor at IITMt</h3>
+<h3 align="center">Research Scholor at IITM</h3>
 
 
 📫 You can reach me at **sankalpshrivastava2017@gmail.com**
