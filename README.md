@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sankalp</h1>
-<h3 align="center">A Data Science Aspirant</h3>
+<h3 align="center">Research Scholor at IITMt</h3>
 
-👨‍🎓 I am studying at IIT Madras.
-
-👨‍💻 I like to work on Machine Learning and Data Science Projects.
-
-🤝 Love to collaborate.
 
 📫 You can reach me at **sankalpshrivastava2017@gmail.com**
 
